@@ -20,7 +20,7 @@ Projetos desenvolvidos na disciplina Introdução ao Reconhecimento de Padrões 
 - [Perceptron](https://github.com/Roberta-Pereira/reconhecimento-de-padroes/tree/main/perceptron)
 - [K-means](https://github.com/Roberta-Pereira/reconhecimento-de-padroes/tree/main/k-means)
 - [K-Nearet Neighbors - KNN](https://github.com/Roberta-Pereira/reconhecimento-de-padroes/tree/main/knn)
-- Support Vector Machine - SVM
+- [Support Vector Machine - SVM](https://github.com/Roberta-Pereira/reconhecimento-de-padroes/tree/main/svm)
 - Classificador de Bayes
 - Clustering
 - Mistura de Gaussianas
